@@ -1,0 +1,3 @@
+!!Scratch!!
+ \_\               /_/               ${Ansi.BRIGHT_RED}Spring Boot ${spring-boot.version}${Ansi.DEFAULT}
+${Ansi.BRIGHT_GREEN}===============================================================${Ansi.DEFAULT}
